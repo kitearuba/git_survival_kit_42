@@ -32,7 +32,7 @@ This Markdown file includes:
 
 ```bash
 .
-├── git_cheat_sheet.md       # Full Git guide
+├── git_survival_kit_42.md       # Full Git guide
 ├── README.md                # This file
 ```
 
@@ -46,7 +46,7 @@ cd git-survival-kit
 cat git_cheat_sheet.md
 ```
 
-Or open `git_cheat_sheet.md` in your favorite Markdown viewer:
+Or open `git_survival_kit_42.md` in your favorite Markdown viewer:
 - VSCode
 - Obsidian
 - Typora
